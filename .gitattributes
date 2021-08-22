@@ -23,5 +23,5 @@
 #
 *.gitattributes linguist-language=gitattributes
 
-* .linguist-vendored
+*.gitattributes linguist-vendored
 * .java linguist-detectable=true
